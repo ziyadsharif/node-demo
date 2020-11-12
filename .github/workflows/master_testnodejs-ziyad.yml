@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'testnodejs-ziyad'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6660aab6b39a4069968d18c243fc47cb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_18fc0bf9b1b244368dade3c0623d425e }}
         package: .
